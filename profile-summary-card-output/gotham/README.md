@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/capwell-murimi/capwell-murimi2/master/profile-summary-card-output/gotham/4-productive-time.svg)
-```
-
-    
